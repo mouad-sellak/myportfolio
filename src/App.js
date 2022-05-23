@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="App">
-  Hello
+  Hello this is my portfolio hosted on netlify
     </div>
   );
 }
